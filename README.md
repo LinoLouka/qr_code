@@ -5,8 +5,6 @@
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 </p>
-## Authors
-
 - [@L0ukaramel](https://github.com/LinoLouka)
 ## Link
 
